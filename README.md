@@ -1,2 +1,5 @@
-# study
-我第一个GitHHub仓库
+
+# Hello GitHub!
+
+这是我的第一个GitHub仓库。  
+我正在学习如何使用GitHub。
